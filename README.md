@@ -1,5 +1,4 @@
 # dvrt-exe
-dvrt 
 DVRT: Virtual Reality Drone Programming Teaching System
 This repository contains the files and resources for the paper titled "DVRT: Design and Evaluation of a Virtual Reality Drone Programming Teaching System". You will find different branches and resources available for download and demonstration.
 
